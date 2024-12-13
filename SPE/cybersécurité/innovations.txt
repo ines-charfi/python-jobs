@@ -1,0 +1,6 @@
+
+
+
+LA DATA CEST LE NERF DE LA GUERRE
+
+la plateforme dispose de plusieurs locaux dans différents emplacement géographique, également de tout un tas d'équipement réseau divers et varié (caméra, badgeuse, serveurs, du matériel physique pour les TP), quel serai le meilleur moyen de proposer un outil de monitoring tout en un et pourquoi pas même intégrer ça à l'intra. rajouter un outil de supervision de caméra, savoir qui a badgé à quel moment, intégrer des badgeuses à toutes les salles pour générer un maximum de data et essayer de s'en servir à notre avantage (faire l'appel, savoir qui est dans quelle salle, quel activité à lieu à quel endroit, s'en servir dans le cadre de machine Learning et pourquoi même rajouter cela comme exercice au étudiants en IA et qu'il produise ensuite des modeles de ML), monitoré les serveurs, y compris ceux présents en data center, également intégrer un outil de gestion de stock pour les équipements pour les TP des étudients (ordinateur, carte graphique, cable RJ45 etc...) 
